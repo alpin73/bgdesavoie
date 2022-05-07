@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>http://bgdesavoie.free.fr/generic.html</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+  <lastmod>2022-05-07</lastmod>
+</url>
+<url>
+  <loc>http://bgdesavoie.free.fr/CV_BG/cv.html</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+  <lastmod>2022-05-07</lastmod>
+</url>
+<url>
+  <loc>http://bgdesavoie.free.fr/index.html</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+  <lastmod>2022-05-07</lastmod>
+</url>
+<url>
+  <loc>http://bgdesavoie.free.fr/elements.html</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+  <lastmod>2022-05-07</lastmod>
+</url>
+</urlset>
